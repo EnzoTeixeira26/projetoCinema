@@ -1,0 +1,6 @@
+- Entrar no backend e executa o java entrando no demo aplication no VS Code com a extensão de java.
+- Não esquecer de abrir o postgresSQL e criar o banco de dados com o nome correto a partir das propriedades
+- Entrar pela prompt do VS Code no frontend com o comando "cd (nome da pasta)"
+- Executar o primeiro comando: "npm install"
+- Executar o comando para executar o aplicativo localmente: "npm run web"
+- Divirta-se
